@@ -12,8 +12,10 @@ namespace LogiPractice
     {
         static void Main(string[] args)
         {
+            //LinQ linq = new LinQ();
+
             DSA dsa = new DSA();
-            dsa.LargestWord();
+            //dsa.LargestWord();
             //dsa.revString();
             //dsa.SecondLargest();
             //dsa.AscendingOrNot();
@@ -23,8 +25,8 @@ namespace LogiPractice
             // dsa.VowelFind();
             //dsa.PerfectSquare();
             //dsa.SumOfDigits();
-            //Array ar = new Array();
-           // int[] arrr= ar.ArraySample();
+            Array ar = new Array();
+            //int[] arrr= ar.ArraySample();
             //Console.WriteLine(ar.ArraySample());
             //Console.WriteLine(arrr[1]+" "+arrr[0]);
             //Console.WriteLine(ar.ArrayAvg());
@@ -36,19 +38,21 @@ namespace LogiPractice
             //a(100, 50);
             //AsyncProgramming.AsyncProgramming1();
             //DuplicateRemove duplicateRemove = new DuplicateRemove();
-             ReverseEachWords reverseEachWords = new ReverseEachWords();
+             //ReverseEachWords reverseEachWords = new ReverseEachWords();
             //CharacterOccurence characterOccurence = new CharacterOccurence();
             //RightAngleTriangle rightAngleTriangle = new RightAngleTriangle();
             //rightAngleTriangle.MirrorRightAngle();
             //PalindromeString palindromeString = new PalindromeString();
             //palindromeString.PalidromeStringArray();
             // palindromeString.PalindromeStringForeach();
-            //SumOfDigits sumOfDigits = new SumOfDigits();
+           // SumOfDigits sumOfDigits = new SumOfDigits();
             //Fibonacci fibonacci = new Fibonacci();
 
             //PalindromeNumbers palindromeNumbers = new PalindromeNumbers();
 
             //PrimeNumbers primeNumbers = new PrimeNumbers();
+            Sample sample = new Sample();
+            Console.ReadLine();
 
         }
     }

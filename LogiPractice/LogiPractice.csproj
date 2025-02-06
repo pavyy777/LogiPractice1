@@ -80,6 +80,7 @@
     <Compile Include="DSA.cs" />
     <Compile Include="DuplicateRemove.cs" />
     <Compile Include="Fibonacci.cs" />
+    <Compile Include="LinQ.cs" />
     <Compile Include="PalindromeNumbers.cs" />
     <Compile Include="PalindromeString.cs" />
     <Compile Include="PrimeNumbers.cs" />
@@ -87,6 +88,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseEachWords.cs" />
     <Compile Include="RightAngleTriangle.cs" />
+    <Compile Include="Sample.cs" />
     <Compile Include="SumOfDigits.cs" />
   </ItemGroup>
   <ItemGroup>
