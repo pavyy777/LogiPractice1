@@ -39,7 +39,7 @@ namespace LogiPractice
                 sum = sum + arr1[i];
             }
 
-            int counts = arr1.Count();
+            int counts = arr1.Length;
              int result = sum / counts;
             return result;
            
