@@ -73,6 +73,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LargestNumber.cs" />
     <Compile Include="Array.cs" />
     <Compile Include="AsyncProgramming.cs" />
     <Compile Include="CharacterOccurence.cs" />
@@ -89,6 +90,7 @@
     <Compile Include="ReverseEachWords.cs" />
     <Compile Include="RightAngleTriangle.cs" />
     <Compile Include="Sample.cs" />
+    <Compile Include="Substring.cs" />
     <Compile Include="SumOfDigits.cs" />
   </ItemGroup>
   <ItemGroup>

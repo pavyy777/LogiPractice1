@@ -32,7 +32,7 @@ Console.WriteLine("Hello, World!");
 //GCD gCD = new GCD();
 int a = 56; int b=22;
 GCD gCD = new GCD();    
-gCD.GCD2(a, b);
+//gCD.GCD2(a, b);
 
 
 
